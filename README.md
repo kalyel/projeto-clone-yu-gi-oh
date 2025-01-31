@@ -1,4 +1,4 @@
-<h1>Projeto Dragões</h1>
+<h1>Projeto Clone Yu-Gi-Oh</h1>
 <p>Projeto realizado no evento online, Do Zero ao Programador Contratado, do canal Dev em Dobro feito com fins de estudar programação. <br>
    O projeto demonstra uma lista de cartas inspiradas no card game e anime japones Yu Gi Oh. <br>
    As cartas exibem o nome do monstro, seu nível representado por estrelas, sua descrição e os status de ataque e defesa.</p>
